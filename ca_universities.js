@@ -1,0 +1,22 @@
+myData = [
+[3.857,11.5013, 'University of Yaoundé I'],
+[3.9781803,11.5931287, 'University of Yaoundé I'],
+[4.0557311,9.734028794433009, 'University of Douala main campus'],
+[4.1487253,9.286474719575288, 'University Of Buea'],
+[5.4409314,10.071205544469692, 'University of Dschang'],
+[4.1487253,9.286474719575288, 'University Of Buea'],
+[10.583929,14.290615, 'University Of Buea'],
+[6.0125129,10.257964463927344, 'The University of Bamenda'],
+[4.15816,9.278168, 'The University of Bamenda'],
+[3.9529298,11.5166902, 'ICT University'],
+[0.41857049999999996,9.44595692332819, 'Omar Bongo University'],
+[-1.62911915,13.551684253726739, 'Université des Sciences et Techniques de Masuku'],
+[-4.2771433,15.248307637955111, 'Université Marien Ngouabi'],
+[-4.309966,15.309708, 'Université Marien Ngouabi'],
+[-11.63243095,27.483686320445088, 'Université de Lubumbashi'],
+[0.509942,25.190313, 'Université de Lubumbashi'],
+[12.119034599999999,15.083633823007968, 'Jardin de la Maison de la Femme'],
+[8.6321343,16.029347423770442, 'Université de Moundou'],
+[4.3786503,18.56312695875523, 'University of Bangui'],
+[3.7468,8.7752, 'National University of Equatorial Guinea']
+];
